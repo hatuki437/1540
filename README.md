@@ -6,6 +6,7 @@
 https://github.com/hatuki437/1540/blob/main/LGPH%E3%83%AC%E3%82%B8%E3%83%BC%E3%83%A0%E3%83%95%E3%82%A3%E3%83%AB%E3%82%BF%E3%83%BC.ipynb
 
 * **自動取引アルゴリズム:** 予測結果に基づき、一定のルール（ロジック）に従って擬似的な売買を行うシミュレーション環境。
+https://github.com/hatuki437/1540/blob/main/%E5%AE%8C%E6%88%90%E3%83%93%E3%83%83%E3%82%AF%E3%83%87%E3%83%BC%E3%82%BF%E6%9C%AA%E6%9D%A5%E4%BA%88%E6%B8%AC%20CL%3DF%E7%89%88.ipynb
 
 #### 2. 使用技術
 * **言語:** Python
